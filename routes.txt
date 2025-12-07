@@ -1,0 +1,33 @@
+Ernie v3 Gate Map (lifelineaccesshub)
+Each path is relative to domain, e.g. https://lifelineaccesshub.com/gates/gate01.html
+
+gate01.html  |  type=mainstream  |  label=Mainstream Smartlink  |  url=https://www.effectivegatecpm.com/n87xy3di?key=ff7c372d8acce71cdd863c84ca194a25
+gate02.html  |  type=mainstream  |  label=Moosend Funnel A  |  url=https://trymoo.moosend.com/mnrjngol5bz2
+gate03.html  |  type=mainstream  |  label=Moosend Funnel B  |  url=https://trymoo.moosend.com/21jsc40xcpvu-g3zptq
+gate04.html  |  type=mainstream  |  label=Mainstream Smartlink  |  url=https://www.effectivegatecpm.com/n87xy3di?key=ff7c372d8acce71cdd863c84ca194a25
+gate05.html  |  type=mainstream  |  label=Moosend Funnel A  |  url=https://trymoo.moosend.com/mnrjngol5bz2
+gate06.html  |  type=mainstream  |  label=Moosend Funnel B  |  url=https://trymoo.moosend.com/21jsc40xcpvu-g3zptq
+gate07.html  |  type=mainstream  |  label=Mainstream Smartlink  |  url=https://www.effectivegatecpm.com/n87xy3di?key=ff7c372d8acce71cdd863c84ca194a25
+gate08.html  |  type=mainstream  |  label=Moosend Funnel A  |  url=https://trymoo.moosend.com/mnrjngol5bz2
+gate09.html  |  type=mainstream  |  label=Moosend Funnel B  |  url=https://trymoo.moosend.com/21jsc40xcpvu-g3zptq
+gate10.html  |  type=mainstream  |  label=Mainstream Smartlink  |  url=https://www.effectivegatecpm.com/n87xy3di?key=ff7c372d8acce71cdd863c84ca194a25
+gate11.html  |  type=mainstream  |  label=Moosend Funnel A  |  url=https://trymoo.moosend.com/mnrjngol5bz2
+gate12.html  |  type=mainstream  |  label=Moosend Funnel B  |  url=https://trymoo.moosend.com/21jsc40xcpvu-g3zptq
+gate13.html  |  type=mixed  |  label=Mixed Smartlink  |  url=https://www.effectivegatecpm.com/xrq89es3dp?key=2a2584965fbfbc89d1e3d118e6a61ee9
+gate14.html  |  type=mixed  |  label=Mixed Smartlink  |  url=https://www.effectivegatecpm.com/xrq89es3dp?key=2a2584965fbfbc89d1e3d118e6a61ee9
+gate15.html  |  type=mixed  |  label=Mixed Smartlink  |  url=https://www.effectivegatecpm.com/xrq89es3dp?key=2a2584965fbfbc89d1e3d118e6a61ee9
+gate16.html  |  type=mixed  |  label=Mixed Smartlink  |  url=https://www.effectivegatecpm.com/xrq89es3dp?key=2a2584965fbfbc89d1e3d118e6a61ee9
+gate17.html  |  type=mixed  |  label=Mixed Smartlink  |  url=https://www.effectivegatecpm.com/xrq89es3dp?key=2a2584965fbfbc89d1e3d118e6a61ee9
+gate18.html  |  type=mixed  |  label=Mixed Smartlink  |  url=https://www.effectivegatecpm.com/xrq89es3dp?key=2a2584965fbfbc89d1e3d118e6a61ee9
+gate19.html  |  type=mixed  |  label=Mixed Smartlink  |  url=https://www.effectivegatecpm.com/xrq89es3dp?key=2a2584965fbfbc89d1e3d118e6a61ee9
+gate20.html  |  type=mixed  |  label=Mixed Smartlink  |  url=https://www.effectivegatecpm.com/xrq89es3dp?key=2a2584965fbfbc89d1e3d118e6a61ee9
+gate21.html  |  type=mixed  |  label=Mixed Smartlink  |  url=https://www.effectivegatecpm.com/xrq89es3dp?key=2a2584965fbfbc89d1e3d118e6a61ee9
+gate22.html  |  type=mixed  |  label=Mixed Smartlink  |  url=https://www.effectivegatecpm.com/xrq89es3dp?key=2a2584965fbfbc89d1e3d118e6a61ee9
+gate23.html  |  type=adult  |  label=Adult Smartlink (EffectiveGate)  |  url=https://www.effectivegatecpm.com/aqe7unm3?key=5a45be11b025761c3ccad378ffb221f4
+gate24.html  |  type=adult  |  label=Adult Smartlink (Zeydoo)  |  url=https://lakns.com/link?z=10285669
+gate25.html  |  type=adult  |  label=Adult Smartlink (EffectiveGate)  |  url=https://www.effectivegatecpm.com/aqe7unm3?key=5a45be11b025761c3ccad378ffb221f4
+gate26.html  |  type=adult  |  label=Adult Smartlink (Zeydoo)  |  url=https://lakns.com/link?z=10285669
+gate27.html  |  type=adult  |  label=Adult Smartlink (EffectiveGate)  |  url=https://www.effectivegatecpm.com/aqe7unm3?key=5a45be11b025761c3ccad378ffb221f4
+gate28.html  |  type=adult  |  label=Adult Smartlink (Zeydoo)  |  url=https://lakns.com/link?z=10285669
+gate29.html  |  type=adult  |  label=Adult Smartlink (EffectiveGate)  |  url=https://www.effectivegatecpm.com/aqe7unm3?key=5a45be11b025761c3ccad378ffb221f4
+gate30.html  |  type=adult  |  label=Adult Smartlink (Zeydoo)  |  url=https://lakns.com/link?z=10285669

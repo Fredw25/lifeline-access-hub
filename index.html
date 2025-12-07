@@ -1,42 +1,50 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Exclusive Access</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #000;
-      color: #fff;
-      text-align: center;
-      padding: 40px;
-    }
-    h1 {
-      color: #f90;
-    }
-    p {
-      font-size: 1.2em;
-      margin: 20px 0;
-    }
-    a.button {
-      display: inline-block;
-      background: #f90;
-      color: #000;
-      padding: 15px 30px;
-      font-size: 1.3em;
-      text-decoration: none;
-      border-radius: 5px;
-      transition: background 0.3s;
-    }
-    a.button:hover {
-      background: #ffb84d;
-    }
-  </style>
+  <meta charset="utf-8" />
+  <title>Ernie v3 Access Hub</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Central hub that routes traffic to different offer categories (mainstream, mixed NSFW, and adult 18+). All links are affiliate / SmartLinks.">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Unlock Premium Content</h1>
-  <p>Special private offers are waiting for you. Click below to continue:</p>
-  <a href="https://www.profitableratecpm.com/wj2zgu8j2?key=a81fc6c4d08650286465483c171df65d" class="button">Get Instant Access</a>
+  <main class="page">
+    <header class="hero">
+      <h1>Access Hub</h1>
+      <p class="tagline">Choose where you want to go. Some sections contain adult content and are marked 18+.</p>
+    </header>
+
+    <section class="cards">
+      <a class="card" href="mainstream.html">
+        <h2>Mainstream Offers</h2>
+        <p>Surveys, giveaways, tools, utilities and email lists. No adult content.</p>
+        <span class="chip chip-safe">Safe / Non‑Adult</span>
+      </a>
+
+      <a class="card card-warn" href="mixed.html">
+        <h2>Mixed Offers (NSFW)</h2>
+        <p>Mainstream offers that may include ads or creatives with adult themes.</p>
+        <span class="chip chip-18">18+ recommended</span>
+      </a>
+
+      <a class="card card-danger" href="adult.html">
+        <h2>Adult Offers (18+)</h2>
+        <p>Explicit 18+ content and offers. Enter only if you are an adult in your region.</p>
+        <span class="chip chip-18">18+ only</span>
+      </a>
+    </section>
+
+    <section class="offer-list">
+      <article class="offer">
+        <h2>Tracking & Testing Links</h2>
+        <p>You can also send traffic directly into any of the tracking gates (Gate 1–30). Each gate uses the same clean layout but a different destination and label so you can separate campaigns.</p>
+        <p>Example paths: <code>/gates/gate01.html</code>, <code>/gates/gate10.html</code>, <code>/gates/gate30.html</code></p>
+      </article>
+    </section>
+
+    <footer class="footer">
+      <p>This site uses affiliate links and SmartLinks. By clicking buttons you may open new tabs with third‑party content. No auto‑clicks or misleading behavior – every redirect requires a user click.</p>
+    </footer>
+  </main>
 </body>
 </html>
