@@ -1,50 +1,47 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <title>Ernie v3 Access Hub</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Central hub that routes traffic to different offer categories (mainstream, mixed NSFW, and adult 18+). All links are affiliate / SmartLinks.">
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="UTF-8">
+  <title>Traffic Access Hub</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <main class="page">
-    <header class="hero">
-      <h1>Access Hub</h1>
-      <p class="tagline">Choose where you want to go. Some sections contain adult content and are marked 18+.</p>
-    </header>
+<div class="wrapper">
+  <img src="images/mainstream.svg" class="hero-img" alt="Traffic Access Hub">
+  <h1 class="hero-title">Traffic Access Hub</h1>
+  <p class="hero-sub">Use any gate below as your tracking link from ad networks, socials, or push campaigns. Gates 1–10 are safe mainstream, 11–20 are mixed NSFW, 21–30 are 18+ adult.</p>
 
-    <section class="cards">
-      <a class="card" href="mainstream.html">
-        <h2>Mainstream Offers</h2>
-        <p>Surveys, giveaways, tools, utilities and email lists. No adult content.</p>
-        <span class="chip chip-safe">Safe / Non‑Adult</span>
-      </a>
+  <div class="card">
+    <h2>Gates 1–10 · Mainstream / Safe</h2>
+    <p>Brand-safe entry pages for surveys, utilities, tools and other non-adult offers.</p>
+    <span class="badge badge-safe">Safe / Non-Adult</span>
+    <p style="margin-top:6px;font-size:0.9rem;opacity:0.9;">
+      Paths: <code>/gate01.html</code> … <code>/gate10.html</code>
+    </p>
+  </div>
 
-      <a class="card card-warn" href="mixed.html">
-        <h2>Mixed Offers (NSFW)</h2>
-        <p>Mainstream offers that may include ads or creatives with adult themes.</p>
-        <span class="chip chip-18">18+ recommended</span>
-      </a>
+  <div class="card">
+    <h2>Gates 11–20 · Mixed Smartlink (NSFW)</h2>
+    <p>Mainstream offers that may include adult-themed creatives. Recommended 18+.</p>
+    <span class="badge badge-mixed">NSFW / Mixed</span>
+    <p style="margin-top:6px;font-size:0.9rem;opacity:0.9;">
+      Paths: <code>/gate11.html</code> … <code>/gate20.html</code>
+    </p>
+  </div>
 
-      <a class="card card-danger" href="adult.html">
-        <h2>Adult Offers (18+)</h2>
-        <p>Explicit 18+ content and offers. Enter only if you are an adult in your region.</p>
-        <span class="chip chip-18">18+ only</span>
-      </a>
-    </section>
+  <div class="card">
+    <h2>Gates 21–30 · Adult 18+</h2>
+    <p>Explicit adult offers. Only for compliant 18+ traffic where allowed.</p>
+    <span class="badge badge-adult">Adult 18+</span>
+    <p style="margin-top:6px;font-size:0.9rem;opacity:0.9;">
+      Paths: <code>/gate21.html</code> … <code>/gate30.html</code>
+    </p>
+  </div>
 
-    <section class="offer-list">
-      <article class="offer">
-        <h2>Tracking & Testing Links</h2>
-        <p>You can also send traffic directly into any of the tracking gates (Gate 1–30). Each gate uses the same clean layout but a different destination and label so you can separate campaigns.</p>
-        <p>Example paths: <code>/gates/gate01.html</code>, <code>/gates/gate10.html</code>, <code>/gates/gate30.html</code></p>
-      </article>
-    </section>
-
-    <footer class="footer">
-      <p>This site uses affiliate links and SmartLinks. By clicking buttons you may open new tabs with third‑party content. No auto‑clicks or misleading behavior – every redirect requires a user click.</p>
-    </footer>
-  </main>
+  <div class="footer">
+    <p>This hub uses affiliate SmartLinks. Every external visit requires a manual button click; there is no auto-clicking or forced redirects. Always follow laws and your traffic source rules.</p>
+  </div>
+</div>
 </body>
 </html>
